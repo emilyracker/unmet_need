@@ -6,8 +6,8 @@ This project investigated women's unmet need for contraceptives in an effort to 
 
 **Research Questions**
  *1. What are the reasons women are not using contracpetives in Haiti? 
- 2. Who has an unmet need for contraceptives in Haiti?* 
- **Dependent variable:** unmet5 (unmet need for aid, definition 5)
+ *2. Who has an unmet need for contraceptives in Haiti?* 
+**Dependent variable:** unmet5 (unmet need for aid, definition 5)
 **Independent variables:** Several variables including demographics, education, wealth, and intimate partner violence 
  *3.* *What is the relationship between intimate partner violence and using health services?*
 **Dependent variable:** Visit_healthfac (visited health facility in last 12 months)
