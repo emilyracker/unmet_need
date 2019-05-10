@@ -23,4 +23,4 @@ Accessing data source:
 8.  In haiti_2012, HTIR70FL.DTA >rename> 1.0_haiti_2012.DTA
 
 See "Data Dictionary" for more information on variables. 
-See "Data Management Plan", "Naming Protocol", and "Workflow" for more project information. 
+See "data_management_plan", "data_organization", and "workflow" for more project information. 
